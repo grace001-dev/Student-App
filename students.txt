@@ -1,0 +1,6 @@
+0607,Christine,IT
+0628,GRACE,Mechanical Engineering
+1234,Joan Njeri,Tourisim
+2422,Michael Mwangi,Aeronatical Engineering
+2001,Peter Mwangi,Mechatronics Engineering
+E023-01-0880/2019,Daniel Ndungu,Mechanical Engineering
